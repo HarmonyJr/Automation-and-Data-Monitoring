@@ -33,7 +33,3 @@ plugins - This file contains two sub folders: operators folders that contains th
     Port: Enter the port number)
 6. Click Save button once these values has been entered on the create connection page. 
 7. Once all the values saved, Airflow is set to be run wth Redshift
-8. 
-
-
-
